@@ -1,3 +1,9 @@
+### 생성
+
+```java
+StringBuilder sb = new StringBuilder("aaa");
+```
+
 ### 삭제
 
 ```java
