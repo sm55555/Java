@@ -10,6 +10,8 @@ deleteCharAt(int);
 sb.append();
 ```
 
+### 예시
+
 ```java
 
 import java.io.*;
