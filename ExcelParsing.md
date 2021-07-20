@@ -1,11 +1,11 @@
 # 엑셀 파싱
 
-필요 라이브러리
+### 필요 라이브러리
 
 ![image](https://user-images.githubusercontent.com/38831314/126248922-2c2498c7-b99f-4b2f-947b-608cf538a5f5.png)
 
 
-추가 방법 : Add External JARs... 에다가 업로드
+### 추가 방법 : Add External JARs... 에다가 업로드
 
 ![image](https://user-images.githubusercontent.com/38831314/126248972-0f9cc61f-0717-4f03-98b8-5c32c4657307.png)
 
