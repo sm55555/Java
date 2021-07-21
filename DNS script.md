@@ -6,9 +6,11 @@
 
 입력 방법
 
+```cmd
 test.kkk.com [A레코드] [A레코드] aa
 test.kkk.com [A레코드] [CNAME] ac
 end
+```
 
 ```java
 
